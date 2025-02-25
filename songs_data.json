@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "url": "https://genius.com/Adele-someone-like-you-lyrics"
+    },
+    {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "url": "https://genius.com/The-weeknd-blinding-lights-lyrics"
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "url": "https://genius.com/Ed-sheeran-shape-of-you-lyrics"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "url": "https://genius.com/Queen-bohemian-rhapsody-lyrics"
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "url": "https://genius.com/Michael-jackson-billie-jean-lyrics"
+    }
+]
