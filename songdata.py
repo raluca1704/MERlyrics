@@ -31,7 +31,7 @@ songs = [
     ("Blinding Lights", "The Weeknd"),
     ("Shape of You", "Ed Sheeran"),
     ("Bohemian Rhapsody", "Queen"),
-    ("Billie Jean", "Michael Jackson")
+    ("Too Good At Goodbyes", "Sam Smith")
 ]
 
 # Colectăm datele pentru fiecare melodie
